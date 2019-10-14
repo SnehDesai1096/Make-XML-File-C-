@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\ToXML\ToXML\bin\Debug\ToXML.exe.config
+C:\Users\lenovo\source\repos\ToXML\ToXML\bin\Debug\ToXML.exe
+C:\Users\lenovo\source\repos\ToXML\ToXML\bin\Debug\ToXML.pdb
+C:\Users\lenovo\source\repos\ToXML\ToXML\obj\Debug\ToXML.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\ToXML\ToXML\obj\Debug\ToXML.Form1.resources
+C:\Users\lenovo\source\repos\ToXML\ToXML\obj\Debug\ToXML.Properties.Resources.resources
+C:\Users\lenovo\source\repos\ToXML\ToXML\obj\Debug\ToXML.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\ToXML\ToXML\obj\Debug\ToXML.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ToXML\ToXML\obj\Debug\ToXML.exe
+C:\Users\lenovo\source\repos\ToXML\ToXML\obj\Debug\ToXML.pdb

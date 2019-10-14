@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StudentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Student firstname="Sneh" lastname="Desai" age="23">
+      <College>
+        <College collegename="Charusat" stream="Engineering" branch="CE" idnumber="15CE023" />
+      </College>
+    </Student>
+  </Student>
+</StudentList>
