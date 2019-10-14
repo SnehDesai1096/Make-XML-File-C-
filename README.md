@@ -1,2 +1,2 @@
 # Make-XML-File-C-
-This project is used to make an XML file and store all the data in an XML file, it can also be Read in the Gridview. I've used serializer and Deserializer to achieve this project
+This project is used to make an XML file and store all the data in an XML file, it can also be Read in the Gridview. I've used serializer and Deserializer to achieve this project. Its been developed in C# and windows for for the frontend purposes. to run this code all you need to do is download the code and run it in your visual studios. But, make sure you built the code before running it to set the assembly path. Also, the XML file will be generated in the assembly path that will be inside the BIN folder.
